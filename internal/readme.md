@@ -1,1 +1,1 @@
-Everything in this repository is provided for educational purposes; using it for any other intent is unethical.
+hiçbir sik yok sadece cs2 için hazır bi internal kod 
